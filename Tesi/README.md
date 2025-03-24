@@ -19,7 +19,7 @@
        - fare un sistema di login
        - deve riconoscere tra professori e studenti
   
-- Andando avanti da qui
+- Andando avanti da qu:i
        - creare un app che fa tipo da Classroom con i Tutor
        - fare tuining di questa Ia
        - provare diversi prompt 
