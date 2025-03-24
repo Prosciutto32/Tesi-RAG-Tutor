@@ -1,7 +1,7 @@
 # Tesi AI Tutor
 è debole a prompt injection, 
 
-To do:
+## To do:
 
 - interfaccia per i professori: 
 
@@ -18,3 +18,8 @@ To do:
   
        - fare un sistema di login
        - deve riconoscere tra professori e studenti
+  
+- Andando avanti da qui
+       - creare un app che fa tipo da Classroom con i Tutor
+       - fare tuining di questa Ia
+       - provare diversi prompt 
